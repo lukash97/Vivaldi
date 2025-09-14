@@ -7,5 +7,5 @@
 }
 
 #browser:not(.inner, .narrow-tiling) .webpageview.tiled, #browser:not(.inner, .narrow-tiling) .webpageview.tiled > .row-wrapper {
-  boorder-radius: 0 !important;
+  border-radius: 0 !important;
 }
